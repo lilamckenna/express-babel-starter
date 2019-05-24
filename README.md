@@ -1,7 +1,7 @@
 # websocket refractered back end :) 
 ## Lila McKenna 
 
-![] (https://media.giphy.com/media/QMI6md8Rb7CWHSHND7/giphy.gif)
+![](https://media.giphy.com/media/QMI6md8Rb7CWHSHND7/giphy.gif)
 
 * node with babel
 * expressjs
